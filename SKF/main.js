@@ -1,0 +1,1 @@
+const apiKey = 'pk.eyJ1Ijoic2FoaWwtc2hhamFoYW4iLCJhIjoiY2w2NmI4anBuMDUyYjNqbzdtNWoyamJicyJ9.vwuqIsyH9DxrgvYy7PSaQw';
