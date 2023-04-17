@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#map{
+    width:100vw;
+    height:100vh;
+}
+.popup{
+    display: none;
+    position: fixed;
+    width: 23vw;
+    height: fit-content;
+    padding: 20px 20px;
+    margin: 20px;
+    border-radius: 20px;
+    background:white;
+    z-index: 1000;
+}
+/* .popup .close-btn{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+} */
+
+main{
+    display:flex;
+}
+#ppup{
+    border-style:solid;
+    border-color: rgb(17, 17, 17);
+    width: :10vw;
+}
+
+#st-name{
+    border-style:outset;
+    font-family:unset;
+    width: 18.8;
+    color:rgb(234, 237, 228);
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: rgb(8, 139, 72);
+    
+}
+#st-img{
+    border-style: solid;
+    width: 20.2vw;
+    
+}
+
+#st-address{
+    color: midnightblue;
+    background-color: rgb(234, 255, 248);
+    width: 18.8;
+    font-size: x-large;
+    margin-bottom: 5px;
+    padding: 10px;
+
+}
+#st-contact{
+    color: rgb(50, 59, 59);
+    background-color: rgb(227, 227, 224);
+    width: 18.8;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+#st-timing{
+    padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(233, 242, 249);
+        width: 20vw;
+}
